@@ -1,9 +1,14 @@
-<svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<defs>
-<symbol id="icon-close1" viewBox="0 0 32 32">
-<path fill="#e7e9fc" style="fill: var(--color1, #e7e9fc)" d="M32 16c0 8.837-7.163 16-16 16s-16-7.163-16-16c0-8.837 7.163-16 16-16s16 7.163 16 16z"></path>
-<path fill="none" stroke="#000" stroke-width="1.3333" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" style="stroke: var(--color2, #000)" d="M31.333 16c0 8.468-6.865 15.333-15.333 15.333s-15.333-6.865-15.333-15.333c0-8.468 6.865-15.333 15.333-15.333s15.333 6.865 15.333 15.333z"></path>
-<path fill="#000" style="fill: var(--color2, #000)" d="M21.333 11.741l-1.075-1.075-4.259 4.259-4.259-4.259-1.075 1.075 4.259 4.259-4.259 4.259 1.075 1.075 4.259-4.259 4.259 4.259 1.075-1.075-4.259-4.259 4.259-4.259z"></path>
-</symbol>
-</defs>
+<svg width="0" height="0" class="hidden">
+  <symbol xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="close">
+    <circle cx="12" cy="12" r="12" fill="#E7E9FC"></circle>
+    <circle cx="12" cy="12" r="11.5" stroke="#000" stroke-opacity=".1"></circle>
+    <g clip-path="url(#a)">
+      <path fill="#000" d="M16 8.806 15.194 8 12 11.194 8.806 8 8 8.806 11.194 12 8 15.194l.806.806L12 12.806 15.194 16l.806-.806L12.806 12 16 8.806Z"></path>
+    </g>
+    <defs>
+      <clipPath id="a">
+        <path fill="#fff" d="M8 8h8v8H8z"></path>
+      </clipPath>
+    </defs>
+  </symbol>
 </svg>
